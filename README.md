@@ -44,7 +44,7 @@ Ubungpu is a comprehensive GPU setup tool for Ubuntu systems with NVIDIA or AMD 
 
 ```bash
 # Download
-wget https://raw.githubusercontent.com/mik-tf/ubungpu/main/ubungpu.sh
+wget https://raw.githubusercontent.com/ucli-tools/ubungpu/main/ubungpu.sh
 
 # Install
 bash ubungpu.sh install
